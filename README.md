@@ -6,8 +6,8 @@ Right now I'm mainly working with Python, C#, ML and GenAI frameworks (LLMs, Rag
 
 ### 🛠 Tech Stack & Tools
 - **Languages:** `Python` `C#` `Java` `SQL` `Kotlin` `TypeScript`
-- **AI/Data:** `Ollama` `Vector Search` `BM25` `Pandas` `Tableau` `Power BI`
-- **DevOps:** `Docker` `Git/GitHub` `RESTful APIs` `Linux` `Environment Isolation`
+- **AI/Data:** `Ollama` `Vector Search` `BM25` `Pandas` `Optuna` `PyTorch` `VoyageAI`
+- **DevOps:** `Docker` `Git/GitHub` `RESTful APIs` `Linux` 
 
 ### Cool stuff i've built
 - **[High-Performance RAG Engine](https://github.com/JavierVargasGk/RAG-Project):** Hybrid-search retrieval with fault-tolerant ingestion and automated similarity tuning (Optuna).
