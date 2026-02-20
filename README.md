@@ -10,8 +10,8 @@ Right now I'm mainly working with Python, C#, ML and GenAI frameworks (LLMs, Rag
 - **DevOps:** `Docker` `Git/GitHub` `RESTful APIs` `Linux` 
 
 ### Cool stuff i've built
-- **[High-Performance RAG Engine](https://github.com/JavierVargasGk/RAG-Project):** Hybrid-search retrieval with fault-tolerant ingestion and automated similarity tuning (Optuna).
-- **[Minesweeper AI](https://github.com/JavierVargasGk/Minesweeper-AI):** Constraint satisfaction logic with real-time pixel-to-grid parsing (<100ms latency).
+- **[High-Performance RAG Engine](https://github.com/JavierVargasGk/RAG-Project):** A RAG, wanted to make an LLM, currently feeding it data, want to make it be able to scrape websites on the future.
+- **[Minesweeper AI](https://github.com/JavierVargasGk/Minesweeper-AI):** Minesweeper Bot I made to learn about computer vision on my spare time.
 - **[BattleFight](https://github.com/JavierVargasGk/BattleFight):** Full-stack persistence layer using EF6 and LINQ for complex relationship management.
 
 ### Reach out
