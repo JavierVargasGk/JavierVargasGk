@@ -22,5 +22,5 @@ If you wanna be friends or want to contact me,
 
 ### Random Fun facts:
 - I have 2 cats
-- I love ORV
+- I love ORV (Omniscient Reader's Viewpoint)
 - Spend most of my time rock climbing
