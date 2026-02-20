@@ -16,9 +16,9 @@ Right now I'm mainly working with Python, C#, ML and GenAI frameworks (LLMs, Rag
 
 ### Reach out
 If you wanna be friends or want to contact me,
-- **Gmail: [javiermvm6@gmail.com](mailto:javiermvm6@gmail.com)
-- **Discord: 'OldManGoryeo'
-- **Linkedin: https://www.linkedin.com/in/javier-v-a98201325/
+- **Gmail:** [javiermvm6@gmail.com](mailto:javiermvm6@gmail.com)
+- **Discord:** `OldManGoryeo`
+- **Linkedin:** https://www.linkedin.com/in/javier-v-a98201325/
 
 ### Random Fun facts:
 - I have 2 cats
