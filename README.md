@@ -1,4 +1,4 @@
-## Hallo
+### Hallo
 I'm Javier, System Engineer from Costa Rica
 I enjoy building stuff, most of it starts from a random idea i thought would be cool and severely underestimated how difficult it would be to build
 
@@ -9,18 +9,18 @@ Right now I'm mainly working with Python, C#, ML and GenAI frameworks (LLMs, Rag
 - **AI/Data:** `Ollama` `Vector Search` `BM25` `Pandas` `Tableau` `Power BI`
 - **DevOps:** `Docker` `Git/GitHub` `RESTful APIs` `Linux` `Environment Isolation`
 
-- ### Coolo stuff i've built
+### Cool stuff i've built
 - **[High-Performance RAG Engine](https://github.com/JavierVargasGk/RAG-Project):** Hybrid-search retrieval with fault-tolerant ingestion and automated similarity tuning (Optuna).
 - **[Minesweeper AI](https://github.com/JavierVargasGk/Minesweeper-AI):** Constraint satisfaction logic with real-time pixel-to-grid parsing (<100ms latency).
 - **[BattleFight](https://github.com/JavierVargasGk/BattleFight):** Full-stack persistence layer using EF6 and LINQ for complex relationship management.
 
-## Reach out
-# If you wanna be friends or want to contact me,
+### Reach out
+If you wanna be friends or want to contact me,
 - **Gmail: [javiermvm6@gmail.com](mailto:javiermvm6@gmail.com)
 - **Discord: 'OldManGoryeo'
 - **Linkedin: https://www.linkedin.com/in/javier-v-a98201325/
 
-Random Fun facts:
+### Random Fun facts:
 - I have 2 cats
 - I love ORV
 - Spend most of my time rock climbing
