@@ -4,7 +4,7 @@ I enjoy building stuff, most of it starts from a random idea i thought would be 
 
 Right now I'm mainly working with Python, C#, ML and GenAI frameworks (LLMs, Rags, etc) and random Linux projects
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 - **Languages:** `Python` `C#` `Java` `SQL` `Kotlin` `TypeScript`
 - **AI/Data:** `Ollama` `Vector Search` `BM25` `Pandas` `Optuna` `PyTorch` `VoyageAI`
 - **DevOps:** `Docker` `Git/GitHub` `RESTful APIs` `Linux` 
